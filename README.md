@@ -49,7 +49,7 @@ A Python command-line solver for [Wordle](https://www.nytimes.com/games/wordle/i
 
 ```bash
 git clone https://github.com/AlexvanAlphen/Wordle.git
-cd wordle-solver
+cd Wordle
 ```
 
 2. Ensure you have a `valid_wordle_words.txt` file with valid 5-letter Wordle words, one per line.

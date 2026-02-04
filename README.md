@@ -48,7 +48,7 @@ A Python command-line solver for [Wordle](https://www.nytimes.com/games/wordle/i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/wordle-solver.git
+git clone https://github.com/AlexvanAlphen/Wordle.git
 cd wordle-solver
 ```
 
@@ -57,7 +57,7 @@ cd wordle-solver
 3. Run the solver:
 
 ```bash
-python wordle_solver.py
+python wordle.py
 ```
 
 4. Follow prompts:

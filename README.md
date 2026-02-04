@@ -1,5 +1,3 @@
-Perfect! Here's a GitHub-ready, visually appealing version with badges and emojis:
-
 ---
 
 # 🟩 Wordle Solver

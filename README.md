@@ -79,7 +79,7 @@ Turn 1: Top 5 suggestions:
 5. oater (score: 41)
 
 Choose number or enter your own word: 1
-Turn 1: Guessing 'raise' (score: 45)
+Turn 1: Guessing 'balls' (score: 45)
 Enter feedback: bgybb
 Remaining possible words: 134
 ```

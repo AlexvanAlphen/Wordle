@@ -72,11 +72,11 @@ python wordle_solver.py
 
 ```
 Turn 1: Top 5 suggestions:
-1. raise (score: 45)
-2. slate (score: 44)
-3. crate (score: 43)
-4. trace (score: 42)
-5. glean (score: 41)
+1. balls (score: 45)
+2. trick (score: 44)
+3. farts (score: 43)
+4. shack (score: 42)
+5. oater (score: 41)
 
 Choose number or enter your own word: 1
 Turn 1: Guessing 'raise' (score: 45)
